@@ -1,0 +1,7 @@
+C:\Users\111\source\repos\я15\я15\bin\Debug\я15.exe.config
+C:\Users\111\source\repos\я15\я15\bin\Debug\я15.exe
+C:\Users\111\source\repos\я15\я15\bin\Debug\я15.pdb
+C:\Users\111\source\repos\я15\я15\obj\Debug\я15.csproj.AssemblyReference.cache
+C:\Users\111\source\repos\я15\я15\obj\Debug\я15.csproj.CoreCompileInputs.cache
+C:\Users\111\source\repos\я15\я15\obj\Debug\я15.exe
+C:\Users\111\source\repos\я15\я15\obj\Debug\я15.pdb
