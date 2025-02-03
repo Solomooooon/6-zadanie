@@ -1,0 +1,7 @@
+C:\Users\Auga's PC\source\repos\MDND18\MDND18\bin\Debug\MDND18.exe.config
+C:\Users\Auga's PC\source\repos\MDND18\MDND18\bin\Debug\MDND18.exe
+C:\Users\Auga's PC\source\repos\MDND18\MDND18\bin\Debug\MDND18.pdb
+C:\Users\Auga's PC\source\repos\MDND18\MDND18\obj\Debug\MDND18.csproj.AssemblyReference.cache
+C:\Users\Auga's PC\source\repos\MDND18\MDND18\obj\Debug\MDND18.csproj.CoreCompileInputs.cache
+C:\Users\Auga's PC\source\repos\MDND18\MDND18\obj\Debug\MDND18.exe
+C:\Users\Auga's PC\source\repos\MDND18\MDND18\obj\Debug\MDND18.pdb

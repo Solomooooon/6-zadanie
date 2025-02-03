@@ -1,0 +1,7 @@
+C:\Users\Auga's PC\source\repos\MDND17\MDND17\bin\Debug\MDND17.exe.config
+C:\Users\Auga's PC\source\repos\MDND17\MDND17\bin\Debug\MDND17.exe
+C:\Users\Auga's PC\source\repos\MDND17\MDND17\bin\Debug\MDND17.pdb
+C:\Users\Auga's PC\source\repos\MDND17\MDND17\obj\Debug\MDND17.csproj.AssemblyReference.cache
+C:\Users\Auga's PC\source\repos\MDND17\MDND17\obj\Debug\MDND17.csproj.CoreCompileInputs.cache
+C:\Users\Auga's PC\source\repos\MDND17\MDND17\obj\Debug\MDND17.exe
+C:\Users\Auga's PC\source\repos\MDND17\MDND17\obj\Debug\MDND17.pdb
